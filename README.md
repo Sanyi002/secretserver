@@ -10,7 +10,7 @@ See the demo here: http://innonic.sandorszabo.site/swagger-ui.html
 ## Installation
 
 #### Clone
-* Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+* Clone this repo to your local machine using `https://github.com/Sanyi002/secretserver.git`
 
 #### Setup
 > Compile the project with Maven.
