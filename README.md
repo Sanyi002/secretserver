@@ -1,7 +1,7 @@
 # Secret Server Coding Task 
 > Repository for Innonic's coding task. <br>The full description can be viewed here: https://github.com/peti2001/secret-server-task 
 
-See the demo here: http://innonic.sandorszabo.site/swagger-ui.html
+See the demo here: http://secretserver.sandorszabo.site/swagger-ui.html
 
 ##### Requirements
 * Java 11
