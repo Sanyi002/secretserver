@@ -1,7 +1,6 @@
 # Secret Server Coding Task 
 > Repository for Innonic's coding task. <br>The full description can be viewed here: https://github.com/peti2001/secret-server-task 
 
-See the demo here: http://secretserver.sandorszabo.site/swagger-ui.html
 
 ##### Requirements
 * Java 11
@@ -24,6 +23,6 @@ $ java -jar target/secretserver-0.0.1-SNAPSHOT.jar --spring.datasource.url=$YOUR
 ```
 
 ## Usage
-The project using Swagger2 for documentation. So for more info you can check the doc under `your-host.com/swagger-ui.html`
+The project is using Swagger2 for documentation. So for more info you can check the doc under `your-host.com/swagger-ui.html`
 
 
